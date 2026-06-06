@@ -1,0 +1,10 @@
+{
+    "id" : "weather-sensor-001",
+    "group" : "sensors",
+    "TempService" : {
+        "Temperature" : "-50~50lr"
+    },
+    "HumidityService" : {
+        "Humidity" : "900~1100lr"
+    }
+}
